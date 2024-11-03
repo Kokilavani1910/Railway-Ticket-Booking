@@ -13,7 +13,7 @@ try:
     conn = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Kokila@19",
+        password=" ",#Enter Your password
         
     )
     
